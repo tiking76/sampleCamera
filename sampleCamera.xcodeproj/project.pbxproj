@@ -65,13 +65,13 @@
 				11B4CCA625F7C1E7000843FB /* AppDelegate.swift */,
 				11B4CCA825F7C1E7000843FB /* SceneDelegate.swift */,
 				11B4CCAA25F7C1E7000843FB /* ContentView.swift */,
+				11B4CCBE25F7C28A000843FB /* CALayer.swift */,
 				11B4CCBB25F7C265000843FB /* AVFoundationVM.swift */,
 				11B4CCC225F7CA2A000843FB /* Video.swift */,
 				11B4CCAC25F7C1E7000843FB /* Assets.xcassets */,
 				11B4CCB125F7C1E7000843FB /* LaunchScreen.storyboard */,
 				11B4CCB425F7C1E7000843FB /* Info.plist */,
 				11B4CCAE25F7C1E7000843FB /* Preview Content */,
-				11B4CCBE25F7C28A000843FB /* CALayer.swift */,
 			);
 			path = sampleCamera;
 			sourceTree = "<group>";
